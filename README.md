@@ -1,0 +1,2 @@
+# Splitzer
+Bill Splitter App
